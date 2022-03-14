@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json.schemastore.org/nodemon.json",
+  "watch": ["index.ts"],
+  "ext": "ts,js,mjs,json",
+  "exec": "esno index.ts"
+}
